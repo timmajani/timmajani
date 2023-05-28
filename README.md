@@ -1,6 +1,5 @@
 ### Hi... 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Tim+Majani.;Financial+Data+Analyst.;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=24&duration=4000&pause=1000&color=AEAEAE&vCenter=true&width=500&lines=I'm+Tim+Majani.;Financial+Data+Analyst.;)](https://git.io/typing-svg)
 ### Expertise
 -------------
 * Algorithmic trading.
@@ -16,10 +15,10 @@
 <div style="display: inline">
   <img align="center" title="CSS" height="30cm" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" title="C++" height="30cm" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
-  <img align="center" title="HTML" height="30cm" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img align="center" title="HTML" height="30cm" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+  <img align="center" title="JavaScript" heigh="30cm" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" title="MQL5" height="30cm" src="https://img.shields.io/badge/MQL5-3492cd?style=for-the-badge">
   <img align="center" title="Python" height="30cm" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" title="QT" height="30cm" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   <img align="center" title="R" heigh="30cm" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 </div>
 
