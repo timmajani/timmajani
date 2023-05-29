@@ -1,20 +1,17 @@
-### Hi... 👋
+### Hi...
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=24&duration=4000&pause=1000&color=AEAEAE&vCenter=true&width=500&lines=I'm+Tim+Majani.;Financial+Data+Analyst.;)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Ask me about:</h4>
+⚡ Algorithmic trading
+⚡ Computer assembly and maintenance
+⚡ Data analysis
+⚡ Machine learning
+⚡ Quantitative finance
+
+
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  </a> </p>
 
-### Expertise
--------------
-* Algorithmic trading.
-* Computer assembly and maintenance.
-* Data analysis.
-* Machine learning
-* Quantitative finance.
-
-
-### Tools
----------
 <h4>Programming languages:</h4>
 <div style="display: inline">
   <img align="center" title="CSS" height="30cm" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
