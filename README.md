@@ -9,7 +9,6 @@
 ⚡ Quantitative finance
 
 
-<h4 align="left">Tools:</h4>
 <h4>Databases, Programming languages and other tools:</h4>
 <p align="left">
 <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
