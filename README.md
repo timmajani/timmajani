@@ -18,8 +18,11 @@
 <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/r/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60"/> </a>
-<a href="https://www.openvim.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/> </a> </p>
-
+<a href="https://www.openvim.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
+<a href="https://learn-bash.org/" target="_blank"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/512x512_white.png" alt="bash" width="60" height="60"/></a>
+</p>
+           
 <h4>Contact me:</h4>
 <div>
   <a href="mailto:tmajani@gmail.com">
