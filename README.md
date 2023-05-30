@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
 <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/git/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a>
 <a href="https://www.mql5.com/" target="_blank"> <img src="https://github.com/timmajani/timmajani/blob/main/logo_mql5.png" alt="mql5" width="144" height="60"/> </a>
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
