@@ -2,7 +2,6 @@
 
 <h4 align="left">Ask me about:</h4>
 ⚡ Algorithmic trading
-⚡ Computer assembly and maintenance
 ⚡ Data analysis
 ⚡ Machine learning
 ⚡ Quantitative finance
