@@ -6,7 +6,6 @@
 ⚡ Machine learning
 ⚡ Quantitative finance
 
-
 <h4>Databases, Programming languages and other tools:</h4>
 <p align="left">
 <a href="https://www.w3schools.com/mysql/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
@@ -15,16 +14,12 @@
 <a href="https://www.mql5.com/" target="_blank"> <img src="https://github.com/timmajani/timmajani/blob/main/logo_mql5.png" alt="mql5" width="144" height="60"/> </a>
 <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/r/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60"/> </a>
-<a href="https://www.openvim.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 <a href="https://learn-bash.org/" target="_blank"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/512x512_white.png" alt="bash" width="60" height="60"/></a>
 </p>
            
 <h4>Contact me:</h4>
 <div>
-  <a href="mailto:tmajani@gmail.com">
-    <img aling="center" height="30cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/tim-majani/">
     <img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
